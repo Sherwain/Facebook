@@ -43,3 +43,4 @@ public class Company {
         // Referencing inner classes
    }
 }
+//Please be consistent
